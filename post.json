@@ -1,0 +1,14 @@
+[
+    {
+        "profIMG":"../imgs/forum/post/csmall.png",
+        "profNAME":"Abdulrahman Mohamed",
+        "bio":"Photgrapher",
+        "thumbNail":"../imgs/forum/post/covid.png"
+    },
+    {
+        "profIMG":"../imgs/forum/post/csmall2.jpg",
+        "profNAME":"Ammar Sölo",
+        "bio":"Gamer",
+        "thumbNail":"../imgs/forum/post/covid.png"
+    }
+]
